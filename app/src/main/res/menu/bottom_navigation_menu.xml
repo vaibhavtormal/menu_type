@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/homeicon">
+
+    </item>
+    <item
+        android:id="@+id/bottom_shorts"
+        android:title="shorts"
+        android:icon="@drawable/shorts">
+    </item>
+
+    <item
+        android:title=""
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/bottom_subscription"
+        android:title="subcription"
+        android:icon="@drawable/subscption">
+    </item>
+
+    <item
+        android:id="@+id/bottom_libarly"
+        android:title="subcription"
+        android:icon="@drawable/video_library_24">
+    </item>
+</menu>
